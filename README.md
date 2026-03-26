@@ -1,8 +1,8 @@
 # 🔐  Keylogger_with_TCP_server
 Outil de type keylogger qui envoie ces donnée vers un serveur avec un protocole TCP
 
-Ce projet s’inscrit dans une démarche de **sensibilisation à la cybersécurité**.
-Il vise à illustrer le fonctionnement de certaines menaces afin de mieux comprendre comment les détecter et s’en protéger.
+Ce projet s’inscrit dans une démarche de **recuperation d'information**.
+Il vise à illustrer le fonctionnement de certaines menaces afin de mieux comprendre comment les détecter.
 
 ---
 
